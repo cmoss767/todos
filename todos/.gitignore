@@ -1,6 +1,6 @@
 # .NET build folders
-# bin
-# obj/
-# .watch
-# Debug
-# project.razor.vscode.bin
+bin
+obj/
+.watch
+Debug
+project.razor.vscode.bin
